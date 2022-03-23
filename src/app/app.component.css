@@ -1,0 +1,7 @@
+.mynavbar{
+  padding: 5px;
+  position: fixed;
+  width: 100%;
+  z-index: 5;
+  background: linear-gradient(135deg,#5dc1b9,#5dc1b9);
+}

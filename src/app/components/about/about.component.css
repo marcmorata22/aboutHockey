@@ -1,0 +1,31 @@
+.margins {
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 10px;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  }
+.boxDecoration{
+  border-radius: 10px;
+  position: relative;
+  margin: 10px;
+  align-content: left;
+  padding: 5px;
+  line-height: 1.8
+}
+.img{
+ border-radius: 10px;
+ border-color: #5dc1b9;;
+ border-width: 1px;
+ border-style: solid;
+}
+
+
+.footer{
+  padding: 15px;
+  background: #5dc1b9;;
+  color: white;
+  width: 100%;
+}

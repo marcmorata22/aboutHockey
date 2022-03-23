@@ -1,0 +1,28 @@
+.title{
+    position: relative;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+    z-index: 3;
+    opacity: 1;
+    color: #5dc1b9;
+}
+
+.centerform{
+  padding: 20px;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.formstyle{
+  border-radius: 10px;
+  padding:20px;
+  border-color:  #5dc1b9;
+  border-width: 3px;
+  border-style: solid;
+}
+
+
