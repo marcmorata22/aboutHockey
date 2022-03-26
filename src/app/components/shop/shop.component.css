@@ -1,8 +1,18 @@
-.mycards{
- max-width: 250px;
+.myrows{
  align-items: center;
  text-align: center;
  justify-content: center;
- border-color:  #5dc1b9;
- border-width: 3px;
 }
+.myboxs{
+ max-width: 300px;
+ align-items: center;
+ text-align: center;
+ justify-content: center;
+ margin: 20px;
+}
+.cardstyle{
+  border-style: solid;
+  border-color:   #5dc1b9;
+  border-width: 3px;
+}
+
